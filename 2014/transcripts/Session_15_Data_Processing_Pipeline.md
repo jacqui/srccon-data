@@ -10,14 +10,17 @@ whitecoatcaptioning.com
      Session Leaders:  Ted Han and Jacqui Maher.
 
      >> Shall we do this thing?  Enthusiasm.  All right.  Cool.  Data.
+     
 We're talking about data.  Data processing pipelines.  I assume
 everyone here, I know a number of you here but not everyone here.  Has
 everyone here had to process data?  Raise your hands.
-     Okay.  Everyone in this room has had to process data.  Good.
-That means we can do the whole show and tell portion of this.  There
-are at the moment, two, four, six, eight, ten, we have 60 minutes.
+
+Okay.  Everyone in this room has had to process data.  Good.
+That means we can do the whole show-and-tell portion of this.  There
+are at the moment, two, four, six, eight, ten people, and we have 60 minutes.
 Everybody gets six minutes then at the moment.
-     I'll try to be quick.  So ultimately this is the question that I
+
+I'll try to be quick.  So ultimately this is the question that I
 was interested in talking about.  Obviously I know my portion of the
 world.  I know how to process documents in a variety of way.  I know
 ruby and some of the pipeline choices there as well as getting up to
@@ -26,18 +29,24 @@ information in.  Jacqui and I put together a questionnaire that you
 can get to via that.  You guys don't have to fill this out now but I
 would be really interested in hearing about the sorts of projects that
 you have.
-     What I'd like to do is compile a little resource but we'll see
-how that goes.  It would be fun and interesting to just hear about a
+
+What I'd like to do is compile a little resource but we'll see
+how that goes.  It would be fun and interesting to just hear a
 little bit about the projects that people have made and try to figure
 out what are the primary constraints that led to those tactical
 decisions.  And so I mean we might as well jump in and give some
 examples of how this works.  Would you like to start?
-     >> Sure.  Sure.  Back in 1999 or so I got a job at an -- on an
+
+Jacqui
+
+Sure.  Sure.  Back in 1999 or so I got a job on an
 interactive news team at Hearst.  They dissolved it at tend of 2001.
 Maybe it was too early.  I don't know.  My first project was the
-esquire drinks data base.  They wanted to make an esquire drinks
-database.  The first constraint was that I could not have a database.
-     They would not let me have a database.  What do you mean?  It's a
+Esquire Drinks Database.  
+
+So, they wanted to make a drinks database.  The first constraint was that I could not have a database.
+
+They would not let me have a database.  What do you mean?  It's a
 database.  I had to come up with a way of somehow storing all of the
 drink ingredients and stuff and at that time the answer to everyone's
 problems was XML.  Which ...(laughing)... which is a new problem, new
